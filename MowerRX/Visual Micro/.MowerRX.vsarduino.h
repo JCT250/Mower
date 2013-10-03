@@ -28,12 +28,11 @@ extern "C" void __cxa_pure_virtual() {;}
 
 //
 void serial_check();
-void serial_check();
 void serial_process();
 void drive_motors();
 //
 
 #include "C:\Arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h" 
 #include "C:\Arduino\hardware\arduino\cores\arduino\arduino.h"
-#include "C:\Users\prepress2\Documents\Arduino\MowerRX\MowerRX.ino"
+#include "C:\Users\prepress2\Documents\GitHub\Mower\MowerRX\MowerRX.ino"
 #endif
