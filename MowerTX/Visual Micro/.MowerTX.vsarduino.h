@@ -32,5 +32,5 @@ void transmit_values();
 
 #include "C:\Arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h" 
 #include "C:\Arduino\hardware\arduino\cores\arduino\arduino.h"
-#include "C:\Users\prepress2\Documents\Arduino\MowerTX\MowerTX.ino"
+#include "C:\Users\prepress2\Documents\GitHub\Mower\MowerTX\MowerTX.ino"
 #endif
