@@ -1,0 +1,8 @@
+<VisualMicro>
+  <Program Name="MowerRX" Ext=".ino" Location="C:\Users\prepress2\Documents\GitHub\Mower\MowerRX">
+    <Compile IsCompiled="0" CompilerErrors="0" ConfigurationName="Debug" StopOnError="False" OptimiseLibs="True" OptimiseCore="True" BuildPath="C:\Users\prepress2\AppData\Local\VMicro\Arduino\Builds\MowerRX\nano328" />
+    <Platform Name="Arduino">
+      <Board Name="nano328" Description="Arduino Nano w/ ATmega328" CoreFolder="C:\Arduino\hardware\arduino\cores\arduino" VariantFullPath="C:\Arduino\hardware\arduino\variants\eightanaloginputs" McuIdePath="C:\Arduino" name="Arduino Nano w/ ATmega328" upload.protocol="arduino" upload.maximum_size="30720" upload.speed="57600" bootloader.low_fuses="0xFF" bootloader.high_fuses="0xDA" bootloader.extended_fuses="0x05" bootloader.path="atmega" bootloader.file="ATmegaBOOT_168_atmega328.hex" bootloader.unlock_bits="0x3F" bootloader.lock_bits="0x0F" build.mcu="atmega328p" build.f_cpu="16000000L" build.core="arduino" build.variant="eightanaloginputs" runtime.ide.path="C:\Arduino" build.system.path="C:\Arduino\hardware\arduino\system" software="ARDUINO" runtime.ide.version="103" build.core.vmresolved="C:\Arduino\hardware\arduino\cores\arduino" build.core.parentfolder.vmresolved="C:\Arduino\hardware\arduino\cores" build.core.coresparentfolder.vmresolved="C:\Arduino\hardware\arduino" vm.core.include="arduino.h" vm.boardsource.path="C:\Arduino\hardware\arduino" vm.boardsource.name="boards.txt" vm.platformname.name="" build.variant.vmresolved="C:\Arduino\hardware\arduino\variants\eightanaloginputs" />
+    </Platform>
+  </Program>
+</VisualMicro>
