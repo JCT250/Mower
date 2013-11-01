@@ -31,7 +31,6 @@ void serial_check();
 void serial_process();
 void drive_motors();
 void stop();
-void interrupt();
 //
 
 #include "C:\Arduino\hardware\arduino\variants\eightanaloginputs\pins_arduino.h" 
